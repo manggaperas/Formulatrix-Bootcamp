@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj": {}
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj": {}
   },
   "projects": {
-    "D:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj": {
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj",
+        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj",
         "projectName": "C# Types",
-        "projectPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj",
+        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\C# Types.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\obj\\",
+        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\C# Types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
