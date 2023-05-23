@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\dell1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\Advance C#.csproj",
+      "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\Advance C#.csproj",
       "projectName": "Advance C#",
-      "projectPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\Advance C#.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\obj\\",
+      "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\Advance C#.csproj",
+      "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
+      "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

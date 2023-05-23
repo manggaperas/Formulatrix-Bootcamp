@@ -10,11 +10,11 @@
         "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\Advance C#.csproj",
         "projectName": "Advance C#",
         "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\Advance C#.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
         "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Advance C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

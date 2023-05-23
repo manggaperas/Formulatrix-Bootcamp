@@ -1,4 +1,6 @@
-class Sport
+namespace SportLibrary;
+
+class CompetitiveSport
 {
 	bool Status;
 	int NumberofPlayer;
@@ -9,8 +11,8 @@ class Sport
 	string? OwnerName;
 	string? ClubName;
 	string? LeagueName;
-	
-	Sport(bool status, string ownername, string ownercountry,
+
+	CompetitiveSport(bool status, string ownername, string ownercountry,
 	string clubname, string clublocation, string sporttype, string leaguename, int position)
 	{
 		Status = status;

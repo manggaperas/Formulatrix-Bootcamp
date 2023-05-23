@@ -1,12 +1,13 @@
 namespace BasketballLib;
+using SportLibrary;
 
-class Basketball : Sport
+class Basketball : CompetitiveSport
 {
 	// Properties
-	int	LeagueDivision;
+	int LeagueDivision;
 	int LeagueYear;
 	string? ConferenceSide;
-	
+
 	// Constructors
 	Basketball(string conferenceside, int leaguedivision, int leagueyear)
 	{
@@ -14,7 +15,7 @@ class Basketball : Sport
 		LeagueDivision = leaguedivision;
 		LeagueYear = leagueyear;
 	}
-	
+
 	// Methods
 	void Information()
 	{
