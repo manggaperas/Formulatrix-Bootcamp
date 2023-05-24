@@ -3,73 +3,73 @@
 // membuat Interface
 interface IAnimalBehavior
 {
-    void PerformBehavior();
+    void PerformBehavior(); // method interface
 }
 
 // Parent Class
 class Animal
 {
-    public string Name { get; set; }
+    public string Name { get; set; }    //property
 
-    public virtual void MakeSound()
+    public virtual void MakeSound() //method animal
     {
         Console.WriteLine("The animal makes a sound.");
     }
 }
 
 // Child Class dengan menggunakan Interface
-class Dog : Animal, IAnimalBehavior
+class Dog : Animal, IAnimalBehavior     //class dog inherited from animal and using interface
 {
-    public override void MakeSound()
+    public override void MakeSound()    //override method from child class
     {
         Console.WriteLine("The dog barks.");
     }
 
-    public void Fetch()
+    public void Fetch()        //perilaku dari dog
     {
         Console.WriteLine("The dog fetches the ball.");
     }
 
     public void PerformBehavior()
     {
-        Fetch();
+        Fetch();        //salah satu perilaku yang dimasukkan kedalam interface
     }
 }
 
 // Child Class dengan menggunakan Interface
-class Cat : Animal, IAnimalBehavior
+class Cat : Animal, IAnimalBehavior     //class cat inherited dari animal dengan menggunakan interface
 {
-    public override void MakeSound()
+    public override void MakeSound()    //override method dari cat
     {
         Console.WriteLine("The cat meows.");
     }
 
-    public void Scratch()
+    public void Scratch()       //perilaku kucing
     {
         Console.WriteLine("The cat scratches the furniture.");
     }
 
     public void PerformBehavior()
     {
-        Scratch();
+        Scratch();      //perilaku yang dimasukkan kedalam interface
     }
 }
 
 // Generic class dengan merujuk Parent Class
-class AnimalShelter<T> where T : Animal
+class AnimalShelter<T> where T : Animal     //ini merupakan generic class yang merujuk kepada parent class animal
 {
-    private T[] animals;
+    private T[] animals;        //array animals untuk mendata nama hewan yang terdaftar
 
-    public AnimalShelter(int capacity)
+    public AnimalShelter(int capacity)  //constructor dari class animalshelter
     {
         animals = new T[capacity];
     }
 
-    public void AddAnimal(T animal)
+    public void AddAnimal(T animal)     //method untuk menambahkan animal
     {
-        for (int i = 0; i < animals.Length; i++)
+        for (int i = 0; i < animals.Length; i++)    //kondisi untuk memasukkan animal kedalam daftar
         {
-            if (animals[i] == null)
+            if (animals[i] == null) 
             {
                 animals[i] = animal;
                 Console.WriteLine($"Added {animal.Name} to the animal shelter.");
