@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 2\\.nuget\\packages\\": {}
+    "C:\\Users\\dell1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Creation\\Animal.csproj",
+      "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\Animal.csproj",
       "projectName": "Animal",
-      "projectPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Creation\\Animal.csproj",
-      "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Creation\\obj\\",
+      "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\Animal.csproj",
+      "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
+      "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

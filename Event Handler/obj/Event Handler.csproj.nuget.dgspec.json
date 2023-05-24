@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj": {}
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj": {
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj",
+        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj",
         "projectName": "Event Handler",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Event Handler\\obj\\",
+        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Event Handler\\Event Handler.csproj",
+        "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
+        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Event Handler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

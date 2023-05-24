@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj": {}
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj": {
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj",
+        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj",
         "projectName": "DEHG",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\obj\\",
+        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\DEHG.csproj",
+        "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
+        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Delegate Event Handler Generic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

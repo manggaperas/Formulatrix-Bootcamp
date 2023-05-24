@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\Animal.csproj": {}
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Task\\FooBar Program.csproj": {}
   },
   "projects": {
-    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\Animal.csproj": {
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Task\\FooBar Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\Animal.csproj",
-        "projectName": "Animal",
-        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\Animal.csproj",
+        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Task\\FooBar Program.csproj",
+        "projectName": "FooBar Program",
+        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Task\\FooBar Program.csproj",
         "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
-        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Creation\\obj\\",
+        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"

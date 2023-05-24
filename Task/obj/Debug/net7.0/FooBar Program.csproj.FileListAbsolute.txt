@@ -1,0 +1,15 @@
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\bin\Debug\net7.0\FooBar Program.exe
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\bin\Debug\net7.0\FooBar Program.deps.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\bin\Debug\net7.0\FooBar Program.runtimeconfig.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\bin\Debug\net7.0\FooBar Program.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\bin\Debug\net7.0\FooBar Program.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.csproj.AssemblyReference.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.GeneratedMSBuildEditorConfig.editorconfig
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.AssemblyInfoInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.AssemblyInfo.cs
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.csproj.CoreCompileInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\refint\FooBar Program.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\FooBar Program.genruntimeconfig.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Task\obj\Debug\net7.0\ref\FooBar Program.dll
