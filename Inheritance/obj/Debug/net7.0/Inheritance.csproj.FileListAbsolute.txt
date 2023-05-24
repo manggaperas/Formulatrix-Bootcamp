@@ -1,0 +1,15 @@
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\bin\Debug\net7.0\Inheritance.exe
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\bin\Debug\net7.0\Inheritance.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
