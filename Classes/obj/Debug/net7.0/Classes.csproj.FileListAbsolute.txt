@@ -1,0 +1,15 @@
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\bin\Debug\net7.0\Classes.exe
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\bin\Debug\net7.0\Classes.deps.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\bin\Debug\net7.0\Classes.runtimeconfig.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\bin\Debug\net7.0\Classes.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\bin\Debug\net7.0\Classes.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\refint\Classes.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\Classes.genruntimeconfig.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Classes\obj\Debug\net7.0\ref\Classes.dll
