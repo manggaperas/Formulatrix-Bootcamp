@@ -1,0 +1,15 @@
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\bin\Debug\net7.0\Animal.exe
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\bin\Debug\net7.0\Animal.deps.json
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\bin\Debug\net7.0\Animal.runtimeconfig.json
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\bin\Debug\net7.0\Animal.dll
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\bin\Debug\net7.0\Animal.pdb
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.csproj.AssemblyReference.cache
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.AssemblyInfoInputs.cache
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.AssemblyInfo.cs
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.csproj.CoreCompileInputs.cache
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.dll
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\refint\Animal.dll
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.pdb
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\Animal.genruntimeconfig.cache
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Creation\obj\Debug\net7.0\ref\Animal.dll
