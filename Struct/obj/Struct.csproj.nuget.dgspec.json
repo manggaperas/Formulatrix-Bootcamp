@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj": {}
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj": {}
   },
   "projects": {
-    "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj": {
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj",
+        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj",
         "projectName": "Struct",
-        "projectPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj",
+        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\Struct.csproj",
         "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
-        "outputPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\obj\\",
+        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Struct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"

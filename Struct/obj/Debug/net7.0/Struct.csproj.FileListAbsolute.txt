@@ -1,0 +1,15 @@
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\bin\Debug\net7.0\Struct.exe
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\bin\Debug\net7.0\Struct.deps.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\bin\Debug\net7.0\Struct.runtimeconfig.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\bin\Debug\net7.0\Struct.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\bin\Debug\net7.0\Struct.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.csproj.AssemblyReference.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.AssemblyInfoInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.AssemblyInfo.cs
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.csproj.CoreCompileInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\refint\Struct.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\Struct.genruntimeconfig.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Struct\obj\Debug\net7.0\ref\Struct.dll
