@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Excep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerator", "Enumerator\Enumerator.csproj", "{591C30EF-D98D-47AC-9AE0-FD8553D368A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{CA195A6F-90C0-4A1C-BBF2-6CD3B277984D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{591C30EF-D98D-47AC-9AE0-FD8553D368A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{591C30EF-D98D-47AC-9AE0-FD8553D368A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{591C30EF-D98D-47AC-9AE0-FD8553D368A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA195A6F-90C0-4A1C-BBF2-6CD3B277984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA195A6F-90C0-4A1C-BBF2-6CD3B277984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA195A6F-90C0-4A1C-BBF2-6CD3B277984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA195A6F-90C0-4A1C-BBF2-6CD3B277984D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
