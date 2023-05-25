@@ -1,0 +1,15 @@
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\bin\Debug\net7.0\Interface.exe
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\bin\Debug\net7.0\Interface.deps.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\bin\Debug\net7.0\Interface.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\bin\Debug\net7.0\Interface.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\refint\Interface.dll
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.pdb
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+d:\Fomulatrix\Formulatrix-Bootcamp\Interface\obj\Debug\net7.0\ref\Interface.dll

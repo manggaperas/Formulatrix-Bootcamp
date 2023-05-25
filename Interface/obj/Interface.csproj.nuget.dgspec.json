@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj": {}
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj": {
+    "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj",
+        "projectUniqueName": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj",
+        "projectPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
-        "outputPath": "D:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\obj\\",
+        "outputPath": "d:\\Fomulatrix\\Formulatrix-Bootcamp\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
