@@ -18,7 +18,7 @@ class Program
 		finally
 		{
 			// finally pertama
-			Console.WriteLine("Program telah berjalan");
+			Console.WriteLine("Cek selesai");
 		}
 
 		try
@@ -33,7 +33,7 @@ class Program
 		finally
 		{
 			// finally kedua
-			Console.WriteLine("Program telah berjalan");
+			Console.WriteLine("cek selesai");
 		}
 
 		try
@@ -48,7 +48,7 @@ class Program
 		finally
 		{
 			// finally
-			Console.WriteLine("Program telah berjalan");
+			Console.WriteLine("Program telah dicek");
 		}
 		
 		// Program dilanjutkan setelah semua blok try-catch-finally

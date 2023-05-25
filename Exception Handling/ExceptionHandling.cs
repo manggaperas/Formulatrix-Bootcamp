@@ -6,8 +6,8 @@ public class ExceptionHandling
 	{
 		int num1 = 10;
 		int num2 = 0;
-		int hasil = num1 / num2;
-		Console.WriteLine("Hasil pembagian: " + hasil); // Tidak akan dieksekusi
+		int result = num1 / num2;
+		Console.WriteLine("Hasil pembagian: " + result); // Tidak akan dieksekusi
 	}
 
 	public static void ArrayOutOfRangeException()
