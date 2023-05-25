@@ -1,2 +1,57 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using Exception_Handling;
+
+class Program
+{
+	static void Main()
+	{
+		try
+		{
+			// try pertama
+			ExceptionHandling.DivideByZeroException();
+		}
+		catch (ArithmeticException e)
+		{
+			// catch untuk ArithmeticException
+			Console.WriteLine("Terjadi kesalahan pembagian: " + e.Message);
+		}
+		finally
+		{
+			// finally pertama
+			Console.WriteLine("Program telah berjalan");
+		}
+
+		try
+		{
+			ExceptionHandling.ArrayOutOfRangeException();
+		}
+		catch (IndexOutOfRangeException e)
+		{
+			// catch untuk IndexOutOfRangeException
+			Console.WriteLine("Terjadi kesalahan indeks array: " + e.Message);
+		}
+		finally
+		{
+			// finally kedua
+			Console.WriteLine("Program telah berjalan");
+		}
+
+		try
+		{
+		ExceptionHandling.IntegerInputByStringException();
+		}
+		catch (FormatException e)
+		{
+			// catch untuk FormatException
+			Console.WriteLine("Terjadi kesalahan input: " + e.Message);
+		}
+		finally
+		{
+			// finally
+			Console.WriteLine("Program telah berjalan");
+		}
+		
+		// Program dilanjutkan setelah semua blok try-catch-finally
+		Console.WriteLine("Program selesai");
+	}
+}
