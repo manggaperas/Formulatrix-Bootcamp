@@ -28,12 +28,12 @@ public class Enumeratorx : IEnumerable
             _currentIndex = -1;
         }
 
-        public object Current => fruits[_currentIndex];
+        public object Current => _fruits[_currentIndex];
 
         public bool MoveNext()
         {
             _currentIndex++;
-            return _currentIndex < fruits.Length;
+            return _currentIndex < _fruits.Length;
         }
 
         public void Reset()
