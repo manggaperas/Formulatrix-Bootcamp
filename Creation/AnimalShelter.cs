@@ -9,6 +9,7 @@ public class AnimalShelter<T> where T : Animal     //ini merupakan generic class
 		_animals = new T[capacity];
 	}
 
+
 	public void AddAnimal(T animal)     //method untuk menambahkan animal
 	{
 		for (int i = 0; i < _animals.Length; i++)    //kondisi untuk memasukkan animal kedalam daftar

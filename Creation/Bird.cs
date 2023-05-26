@@ -18,3 +18,5 @@ public class Bird : Animal , IAnimalBehavior
 		Fly();
 	}
 }
+
+

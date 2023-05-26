@@ -6,10 +6,10 @@ class Program
 	static void Main()
 	{
 		Dog dog = new Dog();
-		dog.Name = "Buddy";
+		dog.Name = "Bagong";
 
 		Cat cat = new Cat();
-		cat.Name = "Whiskers";
+		cat.Name = "Chiko";
 
 		Animal animal = dog;
 		Dog castedDog = (Dog)animal;
