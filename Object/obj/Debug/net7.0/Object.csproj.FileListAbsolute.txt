@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\bin\Debug\net7.0\Object.exe
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\bin\Debug\net7.0\Object.deps.json
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\bin\Debug\net7.0\Object.runtimeconfig.json
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\bin\Debug\net7.0\Object.dll
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\bin\Debug\net7.0\Object.pdb
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.dll
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\refint\Object.dll
+C:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.pdb
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\Object.genruntimeconfig.cache
+c:\Users\Batch 2\Documents\Formulatrix-Bootcamp\Formulatrix-Bootcamp\Object\obj\Debug\net7.0\ref\Object.dll

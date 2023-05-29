@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerable", "Enumerable\Enumerable.csproj", "{DA7DCDCC-6572-49C1-86BC-6085E34C8100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object", "Object\Object.csproj", "{DF37AB34-0997-42C7-8579-664F11D0F4F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{DA7DCDCC-6572-49C1-86BC-6085E34C8100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7DCDCC-6572-49C1-86BC-6085E34C8100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7DCDCC-6572-49C1-86BC-6085E34C8100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF37AB34-0997-42C7-8579-664F11D0F4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF37AB34-0997-42C7-8579-664F11D0F4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF37AB34-0997-42C7-8579-664F11D0F4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF37AB34-0997-42C7-8579-664F11D0F4F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
