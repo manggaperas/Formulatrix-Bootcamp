@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj": {}
+    "c:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj": {
+    "c:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj",
         "projectName": "Factorial",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj",
+        "projectPath": "c:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\Factorial.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\obj\\",
+        "outputPath": "c:\\Users\\Batch 2\\Documents\\Formulatrix-Bootcamp\\Formulatrix-Bootcamp\\Factorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

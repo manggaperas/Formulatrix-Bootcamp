@@ -1,9 +1,9 @@
 ﻿using System;
 using FactorialLibrary;
 
-class Program
+public class Program
 {
-	static void Main()
+	public static void Main()
 	{
 		Console.Write("Masukkan bilangan bulat positif: ");
 		int n = int.Parse(Console.ReadLine());
@@ -14,7 +14,7 @@ class Program
 		Console.ReadLine();
 	}
 
-	static int HitungFaktorial(int n)
+	public static int HitungFaktorial(int n)
 	{
 		if (n == 0)
 			return 1;
