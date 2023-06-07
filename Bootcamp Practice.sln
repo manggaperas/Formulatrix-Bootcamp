@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{2C753E52-CE6A-4E7A-83A6-88D6B44BB09B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{789B28B2-CE1E-4153-864D-927E652F8221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{2C753E52-CE6A-4E7A-83A6-88D6B44BB09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C753E52-CE6A-4E7A-83A6-88D6B44BB09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C753E52-CE6A-4E7A-83A6-88D6B44BB09B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789B28B2-CE1E-4153-864D-927E652F8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789B28B2-CE1E-4153-864D-927E652F8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789B28B2-CE1E-4153-864D-927E652F8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789B28B2-CE1E-4153-864D-927E652F8221}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
