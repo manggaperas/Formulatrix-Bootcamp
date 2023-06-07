@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{789B28B2-CE1E-4153-864D-927E652F8221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using", "Using\Using.csproj", "{59BB612D-CB25-4D33-8897-34166B4BE122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{789B28B2-CE1E-4153-864D-927E652F8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789B28B2-CE1E-4153-864D-927E652F8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789B28B2-CE1E-4153-864D-927E652F8221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BB612D-CB25-4D33-8897-34166B4BE122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BB612D-CB25-4D33-8897-34166B4BE122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BB612D-CB25-4D33-8897-34166B4BE122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BB612D-CB25-4D33-8897-34166B4BE122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
