@@ -1,0 +1,15 @@
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.csproj.AssemblyReference.cache
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.GeneratedMSBuildEditorConfig.editorconfig
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.AssemblyInfoInputs.cache
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.AssemblyInfo.cs
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.csproj.CoreCompileInputs.cache
+d:\Formulatrix-Bootcamp\Dispose\bin\Debug\net7.0\Dispose.exe
+d:\Formulatrix-Bootcamp\Dispose\bin\Debug\net7.0\Dispose.deps.json
+d:\Formulatrix-Bootcamp\Dispose\bin\Debug\net7.0\Dispose.runtimeconfig.json
+d:\Formulatrix-Bootcamp\Dispose\bin\Debug\net7.0\Dispose.dll
+d:\Formulatrix-Bootcamp\Dispose\bin\Debug\net7.0\Dispose.pdb
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.dll
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\refint\Dispose.dll
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.pdb
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\Dispose.genruntimeconfig.cache
+d:\Formulatrix-Bootcamp\Dispose\obj\Debug\net7.0\ref\Dispose.dll

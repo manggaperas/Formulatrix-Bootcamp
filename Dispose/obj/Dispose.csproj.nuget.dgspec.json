@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj": {}
+    "d:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj": {}
   },
   "projects": {
-    "D:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj": {
+    "d:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj",
+        "projectUniqueName": "d:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj",
         "projectName": "Dispose",
-        "projectPath": "D:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj",
+        "projectPath": "d:\\Formulatrix-Bootcamp\\Dispose\\Dispose.csproj",
         "packagesPath": "C:\\Users\\dell1\\.nuget\\packages\\",
-        "outputPath": "D:\\Formulatrix-Bootcamp\\Dispose\\obj\\",
+        "outputPath": "d:\\Formulatrix-Bootcamp\\Dispose\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell1\\AppData\\Roaming\\NuGet\\NuGet.Config"
