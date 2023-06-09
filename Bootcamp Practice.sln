@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Thread", "00_Thread\00_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_NoThread", "01_NoThread\01_NoThread.csproj", "{98A3044F-5820-4425-A159-C9DB9494E8ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_TaskWithThread", "02_TaskWithThread\02_TaskWithThread.csproj", "{BF23146B-23FC-4698-9BF2-27996D39B05D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{98A3044F-5820-4425-A159-C9DB9494E8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A3044F-5820-4425-A159-C9DB9494E8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A3044F-5820-4425-A159-C9DB9494E8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF23146B-23FC-4698-9BF2-27996D39B05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF23146B-23FC-4698-9BF2-27996D39B05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF23146B-23FC-4698-9BF2-27996D39B05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF23146B-23FC-4698-9BF2-27996D39B05D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
