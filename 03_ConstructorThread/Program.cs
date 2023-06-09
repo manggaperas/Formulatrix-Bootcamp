@@ -15,7 +15,7 @@ class Program
 
 		// Create a new thread using the ParameterizedThreadStart delegate
 		Thread tp0 = new Thread(new ParameterizedThreadStart(DoWorkWithParameter));
-		tp0.Start("parameter");
+		tp0.Start("Bujang 1");
 
 		// Create a new thread with a custom stack size
 		Thread t2 = new Thread(new ThreadStart(DoWorkSimple), 1024 * 1024); // 1 MB stack size
@@ -23,16 +23,16 @@ class Program
 
 		// Create a new thread with a name
 		Thread t3 = new Thread(new ThreadStart(DoWorkSimple));
-		t3.Name = "Named Thread";
+		t3.Name = "Ketua Bujang";
 		t3.Start();
 
 		// Create new thread that call parameterized
-		Thread tp1 = new Thread(() => DoWorkWithParameter("parameter2"));
+		Thread tp1 = new Thread(() => DoWorkWithParameter("Bujang 2"));
 		tp1.Start();
 
 		// Create new thread that call parameterized
 		Thread tp2 = new Thread(DoWorkWithParameter);
-		tp2.Start("parameter3");
+		tp2.Start("Bujang 3");
 	}
 
 	static void DoWorkSimple()
