@@ -3,11 +3,15 @@ using System.Threading.Tasks;
 
 class Program
 {
-    static void Main()
-    {
-        Task task = new Task(() => Console.WriteLine("Hello, Task!"));
-        task.Start();
+	static void Main()
+	{
+		Task task = new Task(() => Console.WriteLine("Test Task"));
+		task.Start();
 
-        task.Wait(); // Wait for the task to complete
-    }
+		task.Wait(); // Wait for the task to complete
+		
+		task.Dispose();
+		
+		Console.ReadLine();
+	}
 }
