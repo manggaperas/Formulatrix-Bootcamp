@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using", "Using\Using.csproj", "{59BB612D-CB25-4D33-8897-34166B4BE122}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Thread", "00_Thread\00_Thread.csproj", "{8C0DBAEA-A53D-4869-B03C-08CE105D7898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{59BB612D-CB25-4D33-8897-34166B4BE122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59BB612D-CB25-4D33-8897-34166B4BE122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59BB612D-CB25-4D33-8897-34166B4BE122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0DBAEA-A53D-4869-B03C-08CE105D7898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0DBAEA-A53D-4869-B03C-08CE105D7898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0DBAEA-A53D-4869-B03C-08CE105D7898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0DBAEA-A53D-4869-B03C-08CE105D7898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
