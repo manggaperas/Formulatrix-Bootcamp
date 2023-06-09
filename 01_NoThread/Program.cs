@@ -23,7 +23,7 @@ public static class Program
         Console.WriteLine("Starting task 1.");
         StringBuilder x = new StringBuilder("Hello");
         x.AppendLine("Mangga");
-        for (int i = 0; i < 1000000; i++)
+        for (int i = 0; i < 10000; i++)
         {
             x.Append(i).Append(" ");
         }
@@ -36,7 +36,7 @@ public static class Program
         Console.WriteLine("Starting task 2.");
         StringBuilder y = new StringBuilder("Hello");
         y.AppendLine("Jeruk");
-        for (int i = 0; i < 1000000; i++)
+        for (int i = 0; i < 10000; i++)
         {
             y.Append(i).Append(" ");
         }
