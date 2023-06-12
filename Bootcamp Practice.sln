@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Asynchronus", "06_Asynch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_MethodTask", "07_MethodTask\07_MethodTask.csproj", "{5897231C-BB01-4747-964C-D94833140A19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingSpeed", "TypingSpeed\TypingSpeed.csproj", "{A03A7127-54A2-49CD-AEFC-DF74BB7F4E22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{5897231C-BB01-4747-964C-D94833140A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5897231C-BB01-4747-964C-D94833140A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5897231C-BB01-4747-964C-D94833140A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03A7127-54A2-49CD-AEFC-DF74BB7F4E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03A7127-54A2-49CD-AEFC-DF74BB7F4E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03A7127-54A2-49CD-AEFC-DF74BB7F4E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03A7127-54A2-49CD-AEFC-DF74BB7F4E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
