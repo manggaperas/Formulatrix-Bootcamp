@@ -10,6 +10,9 @@ class Program
         Console.WriteLine("Tekan Enter untuk memulai...");
         Console.ReadLine();
 
+        // string textlist = TextGenerator.GetRandomText();
+        // Console.WriteLine(textlist);
+
         string testText = "Ini adalah tes kecepatan mengetik. Ketik teks ini secepat mungkin!";
         Console.WriteLine(testText);
 
@@ -23,6 +26,21 @@ class Program
 
         Console.WriteLine("Ketik teks di atas secepat mungkin!");
 
+        // Stopwatch stopwatch = null;
+        // if (!string.IsNullOrEmpty(input))
+        // {
+        // 	stopwatch = new Stopwatch();
+        // 	stopwatch.Start();
+        // }
+        // double elapsedTime = 0;
+        // int charactersTyped = input.Length();
+
+        // if (stopwatch != null)
+        // {
+        // 	stopwatch.Stop();
+        // 	elapsedTime = stopwatch.ElapsedMilliseconds;
+        // }
+
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();
 
@@ -34,6 +52,20 @@ class Program
         int charactersTyped = input.Length;
 
         double typingSpeed = charactersTyped / (elapsedTime / 60000); // Kecepatan mengetik dalam karakter per menit
+
+        // if (charactersTyped > 0)
+        // {
+        // 	System.Console.WriteLine("Kecepatan Mengetik: " + typingSpeed.ToString("F2") + " karakter per menit.");
+        // 	int score = CalculateTypingScore(charactersTyped, typingSpeed);
+        // 	Console.WriteLine("Skor Mengetik: " + score);
+        // }
+        // else 
+        // {
+        // 	System.Console.WriteLine("Anda tidak mengetik apapun");
+        // }
+        // Console.WriteLine("Tekan Enter untuk keluar...");
+        // Console.ReadLine();
+
         Console.WriteLine("Kecepatan Mengetik: " + typingSpeed.ToString("F2") + " karakter per menit.");
 
         int score = CalculateTypingScore(charactersTyped, typingSpeed);
