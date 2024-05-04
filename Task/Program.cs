@@ -1,17 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
+using Foobar;
 
 class Program
 {
-	static void Main(string[] args)
+	static void Main()
 	{
-		Dictionary<int, string> rules = new Dictionary<int, string>()
-		{
-			{ 3, "foo" },
-			{ 5, "bar" },
-			{ 7, "fizz" },
-			{ 9, "buzz" }
-		};
+		var ruleDictionary = new RuleDictionary();
+		var rules = ruleDictionary.GetRules();
 
 		Console.Write("Masukkan angka: ");
 		int n = Convert.ToInt32(Console.ReadLine());
